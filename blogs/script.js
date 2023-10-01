@@ -1,4 +1,4 @@
-NOfunction ceveChestie(str) {
+NOfunction cevaChestie(str) {
     return str.split("").reverse().join("");
 }
 
